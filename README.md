@@ -1,4 +1,4 @@
- Bible-CMS
+ BibleCMS
 ===========
                                                                                                                          
 **Golden Bible  CMS** [Open Source then — a lot of comments for programmers in source code; 512 **lines of code for file maximum**, unique identities from unique identity function, non-numeral identities]
