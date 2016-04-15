@@ -86,3 +86,7 @@ LICENSE
 This project has MIT license, which means you are free to take these sources and use it in any purpose or make you own Bible CMS.
                                                                                                               
                                                                                                               
+Previous sources
+================
+First repo was [Bible-CMS](https://github.com/goldenbible/Bible-CMS). It's closed now for court.
+To look other commits from booninfotech visit this page: [Bible-CMS-Programmers](https://github.com/Golden-Bible-Programmers).
