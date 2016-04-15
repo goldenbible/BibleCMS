@@ -88,6 +88,6 @@ This project has MIT license, which means you are free to take these sources and
                                                                                                               
 Previous sources
 ================
-First repo was [Bible-CMS](https://github.com/goldenbible/Bible-CMS). It's closed now for court.
-Watch [video](https://goo.gl/wLPP7c) of whole story.
-To look other commits from booninfotech visit this page: [Bible-CMS-Programmers](https://github.com/Golden-Bible-Programmers).
+First repo was [Bible-CMS](https://github.com/goldenbible/Bible-CMS). It's closed now for court.  
+Watch [video](https://goo.gl/wLPP7c) of whole story.  
+To look other commits from booninfotech visit this page [Bible-CMS-Programmers](https://github.com/Golden-Bible-Programmers).
