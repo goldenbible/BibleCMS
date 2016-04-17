@@ -76,7 +76,7 @@ It will be good to make other banners for charity organizations in style of Goog
 Because not a lot people will wanna go to page for charity organizations and every organization will have a chance to get a donating.
                                                                                                               
 **Donation**
-Donate button or link. Setting in administration page.
+Donate button or link. Setting in administration page. Request for contribution buttons. [Who knows maybe world will get rich Bible Foundation.] Settings for switching these buttons.
                                                                                                               
 **Social Networking**  
 All is said in subject. It's friends, private messages and other futures of that.
